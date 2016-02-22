@@ -1,5 +1,7 @@
 ## Introduction
 
+This project was Assignment 1 of the Coursera course, Reproducible Research.
+
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
 [Fitbit](http://www.fitbit.com), [Nike
@@ -20,8 +22,8 @@ and include the number of steps taken in 5 minute intervals each day.
 
 ## Data
 
-The data for this assignment can be downloaded from the course web
-site:
+The data for this assignment was  downloaded from the course web
+site on Feb 7, 2016 at 9:06 EDT.  The data was stored locally to  reduce the latency of reading the file over the internet.
 
 * Dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]
 
